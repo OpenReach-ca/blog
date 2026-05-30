@@ -1,0 +1,13 @@
+project:
+  type: website
+
+website:
+  description: "Blog"
+  site-url: https://blog.openreach.ca # you must change this appropriately for RSS feeds to work properly
+  title: "Blog | OpenReach"
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css

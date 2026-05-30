@@ -1,0 +1,1 @@
+Sitemap: https://blog.openreach.ca/sitemap.xml
